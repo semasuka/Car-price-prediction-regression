@@ -1,4 +1,5 @@
 .car_pred_env
 chromedriver/
 database/car_data.db
+database/auto_trader_car_data.db
 .DS_Store
