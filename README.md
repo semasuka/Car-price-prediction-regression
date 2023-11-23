@@ -3,4 +3,4 @@
 
 # Car-price-prediction-regression
 # ⚠️⚠️🚧 THIS IS AN ONGOING PROJECT 👷🏿 🚧⚠️⚠️
-Predicting the price of a car using different car features and data from autotrader.ca
+Predicting the price of a car using different car features and data scraped from autotrader.ca (so far 46k out of 350k records collected)
