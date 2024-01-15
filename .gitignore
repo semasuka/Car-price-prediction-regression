@@ -2,4 +2,5 @@
 chromedriver/
 database/car_data.db
 database/auto_trader_car_data.db
+notebooks/geckodriver.log
 .DS_Store
