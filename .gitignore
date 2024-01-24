@@ -2,5 +2,9 @@
 chromedriver/
 database/car_data.db
 database/auto_trader_car_data.db
+database/auto_trader_car_data_mysql.sql
 notebooks/geckodriver.log
+notebooks/.env
+auto_trader_connection.session.sql
 .DS_Store
+.vscode
