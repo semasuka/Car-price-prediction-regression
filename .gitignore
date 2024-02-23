@@ -8,4 +8,4 @@ notebooks/.env
 auto_trader_connection.session.sql
 .DS_Store
 .vscode
-mozilladriver
+mozilladriver/
